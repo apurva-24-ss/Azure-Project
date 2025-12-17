@@ -1,0 +1,9 @@
+{
+	"name": "apfactoryazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "82268207-1803-4590-bbce-9f9e0d51d38c",
+		"tenantId": "5cdc5b43-d7be-4caa-8173-729e3b0a62d9"
+	}
+}
